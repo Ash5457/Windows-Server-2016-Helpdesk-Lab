@@ -17,4 +17,4 @@ Built a complete Active Directory environment to practice real-world IT support 
 - **Clients:** 2x Windows 10 Pro
 - **Network:** Isolated lab environment
 
-[View Full Documentation](Windows Server 2016 Helpdesk Lab Documentation.md)
+[View Full Documentation](https://github.com/Ash5457/Windows-Server-2016-Helpdesk-Lab/blob/main/Windows%20Server%202016%20Helpdesk%20Lab%20Documentation.md)
